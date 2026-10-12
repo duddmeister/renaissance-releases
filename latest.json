@@ -1,0 +1,10 @@
+{
+  "versionCode": 34,
+  "versionName": "1.0.34",
+  "apk": "Renaissance-1.0.34.apk",
+  "sha256": "aead98763e344a4eb911795a58e563e4951d234715b0117263cfef34767a516a",
+  "size": 4677196,
+  "notes": [
+    "Web games: a swipe down no longer reloads them, and they can start sound and video"
+  ]
+}
