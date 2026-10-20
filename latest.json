@@ -1,0 +1,10 @@
+{
+  "versionCode": 37,
+  "versionName": "1.0.37",
+  "apk": "Renaissance-1.0.37.apk",
+  "sha256": "d4780222a9d3cf70583ce887d2583ca6580a3e94cb43cd9f1030646a9755da6e",
+  "size": 4742732,
+  "notes": [
+    "Bottom sheets stay put after a flick"
+  ]
+}
