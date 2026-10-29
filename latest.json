@@ -1,0 +1,11 @@
+{
+  "versionCode": 39,
+  "versionName": "1.0.39",
+  "apk": "Renaissance-1.0.39.apk",
+  "sha256": "d614895da139e22d2078167b82b63fcb337d3aba7fc97fba858028300ec4e02a",
+  "size": 5323113,
+  "notes": [
+    "Security fixes from the review: certificate warnings, the address bar, app downloads and more",
+    "Bundle Chromium's HSTS preload list"
+  ]
+}
